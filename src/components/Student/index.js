@@ -37,11 +37,11 @@ function nine(operation) {
 }
 
 const plus = left => right => left + right
-const minus = left => right => left - right
+const minus = left => right => right - left
 
 const times = left => right => left * right
 
-const dividedBy = left => right => Math.floor(left / right)
+const dividedBy = left => right => Math.floor(right / left)
 
 const nums = {
   0: zero,
