@@ -25,4 +25,4 @@ You can be log in using any username
 Master Login will take you to Master View. Student Login Will take you to Student View. 
 please create atleast 1 Question in Master View to load Student View.
 
-Sample Question Input Must be  " 9 plus 6 "
+Sample Question Input format Must be  " 9 plus 6 "
