@@ -19,7 +19,7 @@
 <p>CSS</p>
 <p>GSAP</p>
 
-You can be log in using any username
+You can login using any username
 ![image](https://user-images.githubusercontent.com/107473952/224496493-81a154ee-1099-4670-974a-471fa927d55c.png)
 
 Master Login will take you to Master View. Student Login Will take you to Student View. 
