@@ -1,0 +1,58 @@
+.StudentView {
+  display: flex;
+}
+.QuestionCont {
+  height: 400px;
+  overflow-y: auto;
+  width: 800px;
+  background-color: #026593;
+  padding: 50px;
+  border-radius: 25px;
+  margin: 25px;
+  color: white;
+}
+.AnsInput {
+  width: 80px;
+}
+.AnsCont {
+  display: flex;
+  justify-content: space-between;
+}
+.w3-button {
+  border-radius: 20px;
+  margin: 10px;
+}
+.MarksCont {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.QuestionConttop {
+  text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .StudentView {
+    display: flex;
+    flex-direction: column;
+  }
+  .MasterCont {
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+  }
+  .QuestionCont {
+    width: 90%;
+    padding: 8px;
+  }
+  .ImageMAster {
+    width: 200px;
+  }
+  .TopBgCont {
+    width: 100%;
+  }
+  .StatusEl {
+    display: none;
+  }
+}

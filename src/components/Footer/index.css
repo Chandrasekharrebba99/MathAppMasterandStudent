@@ -1,0 +1,7 @@
+.FooterCont {
+  height: 50px;
+  background-color: #008ecf;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

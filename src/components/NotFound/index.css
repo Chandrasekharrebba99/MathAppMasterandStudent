@@ -1,0 +1,9 @@
+.notFound {
+  width: 500px;
+}
+.NotFoundCont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

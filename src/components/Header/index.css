@@ -1,0 +1,24 @@
+.HeaderCls {
+  height: 60px;
+  background-color: #008ecf;
+  color: #d8f3ff;
+}
+.HeaderCls {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 2px solid rgb(190, 190, 190);
+}
+.Logout {
+  border-radius: 50px;
+  box-shadow: 0 1px 1px;
+  border: 1px solid #d8f3ff;
+  background: #a5dff9;
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  font-weight: bold;
+  padding: 12px 45px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  transition: transform 80ms ease-in;
+}
