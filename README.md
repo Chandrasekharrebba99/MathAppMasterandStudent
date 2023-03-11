@@ -26,4 +26,5 @@ Master Login will take you to Master View. Student Login Will take you to Studen
 please create atleast 1 Question in Master View to load Student View.
 
 <Strong>Sample Question Input format Must be  " 9 plus 6 "</Strong>
+<Strong>Please Save All the Questions Before Saving</Strog>
 
