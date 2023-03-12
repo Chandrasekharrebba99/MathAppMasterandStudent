@@ -1,10 +1,16 @@
 
 <h1>How to Run the App</h1>
 <h5>Run the below commads in your CLI</h5>
-<p>git clone https://github.com/Chandrasekharrebba99/MathAppMasterandStudent.git </p>
-cd inside project
-<p>npm i </p>
-<p>npm start</p>
+<ul>
+<li><p>git clone https://github.com/Chandrasekharrebba99/MathAppMasterandStudent.git </p></li>
+<li>cd inside project</li>
+<li><p>npm i </p></li>
+<li><p>npm start</p><li>
+</ul>
+
+
+
+
 
 <h1>Features this App contains</h1>
 <p>local Storage used to Store Questions</p>
