@@ -30,7 +30,10 @@ please create atleast 1 Question in Master View to load Student View.
 <Strong>Please Save All the Questions Before Posting</Strog>
 </br>
 <Strong>Input Number range is Between 0 to 9 only</Strong>
-<h1>Student Interface</h1>
+<h1>Master Interface</h1>
 
 ![image](https://user-images.githubusercontent.com/107473952/224533648-19122202-18fe-4ddc-847c-79f26c3f3174.png)
+<h1>Student Interface</h1>
+![image](https://user-images.githubusercontent.com/107473952/224533723-f69533e1-fb09-4875-baef-e534260f9e34.png)
+
 
