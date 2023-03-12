@@ -31,5 +31,5 @@ please create atleast 1 Question in Master View to load Student View.
 </br>
 <Strong>Input Number range is Between 0 to 9 only</Strong>
 <h1>Student Interface</h1>
-![image](https://user-images.githubusercontent.com/107473952/224533517-228bdf95-2564-48e4-a300-4a39093eaac1.png)
-![image](https://user-images.githubusercontent.com/107473952/224533530-f812d7c1-1209-43a7-a4e5-3988c6197cf4.png)
+<img src="![image](https://user-images.githubusercontent.com/107473952/224533564-59c5a129-a540-43f3-b7af-0e2075c44d17.png)"
+/>
