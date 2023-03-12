@@ -36,4 +36,5 @@ please create atleast 1 Question in Master View to load Student View.
 <h1>Student Interface</h1>
 ![image](https://user-images.githubusercontent.com/107473952/224533723-f69533e1-fb09-4875-baef-e534260f9e34.png)
 
+![image](https://user-images.githubusercontent.com/107473952/224533763-caf69779-f428-484f-916d-e600a8f05fe3.png)
 
