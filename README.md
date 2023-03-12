@@ -44,4 +44,8 @@ please create atleast 1 Question in Master View to load Student View.
 ![image](https://user-images.githubusercontent.com/107473952/224533723-f69533e1-fb09-4875-baef-e534260f9e34.png)
 
 ![image](https://user-images.githubusercontent.com/107473952/224533763-caf69779-f428-484f-916d-e600a8f05fe3.png)
+<p>Responsive</p>
+![image](https://user-images.githubusercontent.com/107473952/224534302-e3ff80cf-80ed-4b25-b1bc-26ec8830eb30.png)
+
+
 
